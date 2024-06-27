@@ -1,1 +1,1 @@
-# amazoncard.githup.io
+# amazoncard
